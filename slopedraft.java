@@ -5,6 +5,7 @@ public class slopedraft {
 
     static Scanner input = new Scanner(System.in);
 //fix your variables / use global variables then modify the code
+//almost there naman na yung gawa mo need lang iayos pa and check your variables kasi wala yung iba dun sa orig code mo
     double input1; 
     double input2; 
     double input3;
